@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccountName": {
-            "value": "pluralsight-stg-001" 
+            "value": "pluralsightstorage001" 
         },
         "location": {
             "value": "Australia Central" 
